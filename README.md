@@ -1,4 +1,4 @@
-<div style="border: 2px solid #ffff;">
+<div border="2px solid #ffff">
 - 👋 Hi, I’m @DaveSilveira, Biomedical scientist and programation enthusiast
 - 👀 I’m interested in JavaScript and Phyton
 - 🌱 I’m currently learning JavaScript in this moment
