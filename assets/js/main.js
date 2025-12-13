@@ -1,5 +1,5 @@
 const grid = document.querySelector('.work_grid');
-
+grid.innerHTML = "<p>Em construção</p>";
 function criaDiv(){
     const criarDiv = document.createElement('div');
     return criarDiv;
@@ -12,7 +12,7 @@ const gridWorks = [ //here will add my projects
 
 document.addEventListener('DOMContentLoaded', function(){
     for(let i = 0; i < gridWorks.length; i++){
-        
+
     let {name, link, backrgound_img} = gridWorks[i];
     let workWindow = criaDiv();
     grid.appendChild(workWindow);
