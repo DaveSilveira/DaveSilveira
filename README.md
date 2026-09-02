@@ -1,7 +1,7 @@
 
 ### Hi, I’m @DaveSilveira, Biomedical scientist and programation enthusiast
 
-- 🤓 I’m interested and learning JavaScript, python and C.
+- 🤓 I’m interested JavaScript, python and C languages.
 - :octocat: In this moment I'm an iniciate in the codes, but if I can help in something I will be happy
 
 - Look my studies apresentation <a href="https://davesilveira.github.io/DaveSilveira/" target="_blank">Here</a>
